@@ -16,7 +16,10 @@ justify-content: space-around;
 align-items: center;
 padding: 24px 0;
 }
+
 .cabecalho-lista-item {
+width: 20%;
+
 display: inline-block;
 margin: 0 16px;
 font: 24px;
