@@ -1,0 +1,18 @@
+criaCartao (
+    `missão´,
+    `saiba qual é a missão da nossa empresa!´,
+    `nossa missão é fornecer os melhores temperos e a melhor qualidade de produto.´
+
+)
+
+criaCartao (
+    `visão´,
+    `saiba qual é a visão da nossa empresa!´,
+    `nossa visão é priorizar os clientes´
+)
+
+criaCartao (
+    `valores´,
+    `saiba quais os valores da nossa empresa!´,
+    `nossos valores são 
+)
